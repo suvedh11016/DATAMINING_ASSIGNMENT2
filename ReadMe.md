@@ -41,12 +41,9 @@ Example results:
 Calculated **Co-citation** and **Bibliographic Coupling** scores.
 
 **Formulas:**
-\[
-\text{CoCite}(A,B) = |\{ P \;|\; P \text{ cites both } A \text{ and } B \}|
-\]
-\[
-\text{BiblioCouple}(A,B) = |\{ P \;|\; A \text{ and } B \text{ both cite } P \}|
-\]
+- Co-citation: CoCite(A, B) = | { P | P cites both A and B } |
+- Bibliographic Coupling: BiblioCouple(A, B) = | { P | A and B both cite P } |
+
 
 Top-10 similar paper pairs were listed for each measure.
 
