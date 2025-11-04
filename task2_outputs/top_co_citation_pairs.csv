@@ -1,0 +1,11 @@
+rank,paper_id_A,title_A,paper_id_B,title_B,score
+1,176a7436-78ea-4c2a-82e6-7930ab023bd1,Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation,e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,154
+2,83c737b8-e084-4766-ba6e-131e6a1c017c,The Pascal Visual Object Classes (VOC) Challenge,f2d49150-35de-4fd5-ac46-eb071d1cc73e,Object Detection with Discriminatively Trained Part-Based Models,148
+3,bb948ac3-8ffc-492f-b738-46ebe8c8093b,Real-time human pose recognition in parts from single depth images,ff84b165-e6df-43a7-9925-e9dbf946f788,Real-time human pose recognition in parts from single depth images,122
+4,153c5014-dc7a-44a8-a93f-5cd27f1193df,Very Deep Convolutional Networks for Large-Scale Image Recognition,e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,95
+5,c812244d-0de8-4e3c-8133-1e834bc9dbd0,DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition,e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,91
+6,c93eac1a-7d9a-48ab-9fb4-389c85bea00e,Caffe: Convolutional Architecture for Fast Feature Embedding,e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,91
+7,0fb0a842-cb06-4b37-9738-a4d18a55ec23,"OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,85
+8,6a97a03d-7337-4f4a-a8db-714d81cff194,Visualizing and Understanding Convolutional Networks,e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,85
+9,153c5014-dc7a-44a8-a93f-5cd27f1193df,Very Deep Convolutional Networks for Large-Scale Image Recognition,176a7436-78ea-4c2a-82e6-7930ab023bd1,Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation,75
+10,051956bb-f64b-4fdb-87f8-3e2868b8b5d8,Going deeper with convolutions,e2f7a74a-8430-4463-94ce-fe85dfd309f9,ImageNet Classification with Deep Convolutional Neural Networks,73

@@ -1,0 +1,11 @@
+rank,paper_id_A,title_A,paper_id_B,title_B,score
+1,57ce64c5-36ba-4def-a8f6-811c27e7e430,Salient Object Detection: A Benchmark,d8fcb057-9de3-4ac1-a33c-c6c05f2d359d,Salient Object Detection: A Survey,43
+2,3919c5a1-0149-411e-99fe-15dbcfe4932f,Security in Software Defined Networks: A Survey,94f07791-d2e5-46f6-9f97-483814068150,Software-Defined Networking: A Comprehensive Survey,40
+3,94f07791-d2e5-46f6-9f97-483814068150,Software-Defined Networking: A Comprehensive Survey,b05400ab-44a1-42c2-874b-71e106070abb,A Survey and a Layered Taxonomy of Software-Defined Networking,40
+4,7f763adf-9fd7-4235-9863-b9ea1b48edf1,Design Guidelines for Spatial Modulation,c9c5a9c0-f1b7-4286-8538-13476ae32e60,"Spatial Modulation for Generalized MIMO: Challenges, Opportunities, and Implementation",38
+5,393a41bb-f098-4825-90a7-06378ba58905,"Urban Computing: Concepts, Methodologies, and Applications",6621e604-8e18-4828-986b-db21e1ce2e38,Trajectory Data Mining: An Overview,37
+6,94f07791-d2e5-46f6-9f97-483814068150,Software-Defined Networking: A Comprehensive Survey,c97a18c6-5de3-4354-b57a-a804d45fec9e,A Survey on Software-Defined Networking,37
+7,d8fcb057-9de3-4ac1-a33c-c6c05f2d359d,Salient Object Detection: A Survey,dae5f09a-d8d4-41aa-9c20-f5b775011972,Salient Object Detection: A Discriminative Regional Feature Integration Approach,34
+8,59dce142-f802-44d1-bd2d-23e6f17e8aa4,A survey on information visualization: recent advances and challenges,d099d30e-7e39-475d-8cfc-d9621540bbf8,A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges,33
+9,0f3db470-b18a-48a1-8947-734a6b9de8ce,Deep learning of representations: looking forward,e407acd7-dfcf-4ee8-9140-6726c01abf4e,Representation Learning: A Review and New Perspectives,32
+10,57ce64c5-36ba-4def-a8f6-811c27e7e430,Salient Object Detection: A Benchmark,dae5f09a-d8d4-41aa-9c20-f5b775011972,Salient Object Detection: A Discriminative Regional Feature Integration Approach,32
